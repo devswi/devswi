@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm [Shi Wei](https://swizm.cc/)
+
+I'm a Front-End & iOS developer.
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shiwei93&show_icons=true&theme=dark&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiwei93&theme=dark&layout=compact)
 
 <!--
 **shiwei93/shiwei93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
