@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Shi Wei](https://swizm.cc/)
 
-I'm a Front-End & iOS developer.
+I'm a frontend & iOS developer.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shiwei93&show_icons=true&theme=dark&count_private=true)
 
