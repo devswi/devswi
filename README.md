@@ -2,9 +2,8 @@
 
 I'm a frontend & iOS developer.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=shiwei93&show_icons=true&theme=dark&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiwei93&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shiwei93&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=tokyonight&layout=compact)
+![Language](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shiwei93&hide=html&hide_border=true&theme=tokyonight&layout=compact)
 
 <!--
 **shiwei93/shiwei93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
