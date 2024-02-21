@@ -1,10 +1,10 @@
-## Hello 👋
-
-## States
-![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shiwei93&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=tokyonight&layout=compact)
+Hello there 👋
 
 <!--
 **shiwei93/shiwei93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## States
+![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shiwei93&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=tokyonight&layout=compact)
 
 Here are some ideas to get you started:
 
