@@ -1,19 +1,11 @@
-Hello there 👋
+**Hello there 👋**
 
-<!--
-**shiwei93/shiwei93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Shi Wei, you can call me swi. I am a web front-end and iOS application developer from China. Dream of becoming a full-stack developer.
 
-## States
-![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shiwei93&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=tokyonight&layout=compact)
+![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devswi&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=github&layout=compact)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Languages
+  - Typescript/Javascript
+  - Swift
+- 🌱 I’m currently learning golang
+- 🤔 I’m looking for remote work opportunities
