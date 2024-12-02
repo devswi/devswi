@@ -8,4 +8,3 @@ My name is Shi Wei, you can call me swi. I am a web front-end and iOS applicatio
   - Typescript/Javascript
   - Swift
 - 🌱 I’m currently learning golang
-- 🤔 I’m looking for remote work opportunities
